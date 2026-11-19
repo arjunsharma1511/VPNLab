@@ -1,5 +1,21 @@
-# Firewall Rule Academy
+# VPN Journey Academy
 
-Large but beginner-friendly firewall rule-writing lab. Students learn source, destination, protocol, port and action, then complete twelve guided rule levels with immediate packet tests.
+Large but basic guided VPN lab. It is dependency-free and GitHub Pages compatible. Open `index.html` or upload the complete folder.
 
-Open `index.html` directly or upload the complete folder to GitHub Pages. The live lab uses `basic-style.css` and `basic-script.js`.
+## Website files
+
+- `index.html`
+- `style.css`
+- `script.js`
+
+Keep those three files together. Progress is stored in the learner's browser, and the completion certificate downloads as a PNG.
+
+## Documents
+
+- `VPN-Lab-Student-Guide.pdf` is the learner walkthrough.
+- `VPN-Lab-Instructor-Answer-Key.pdf` contains all solutions.
+- Matching editable HTML versions are included.
+
+## GitHub Pages
+
+Upload the whole folder to a repository. If this lab is one folder inside a larger Pages site, its URL ends with `/VPN%20Basics%20Lab/`. If it is the root of its own repository, place the three website files in the repository root.
